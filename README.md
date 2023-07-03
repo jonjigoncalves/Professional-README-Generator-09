@@ -1,13 +1,9 @@
-![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+# **#Readme FIle Creator**
+        [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-        # jonathan\
-       
-
-        
-        
         ## Description
-        fdafd
-        
+        Allows user to geneator a Readme file with node
+
         ## Table of Contents
         - [Installation](#installation)
         - [Usage](#usage)
@@ -15,23 +11,23 @@
         - [Contributing](#contributing)
         - [Tests](#tests)
         - [Questions](#questions)
-        
+
         ## Installation
-        dsafdsf
-        
+        make sure to run node index.js
+
         ## Usage
-        dfasfasf
-        
+        for generating quick formated readme files
+
         ## License
-        Your application is covered with the  Apache 2.0 license.
-        
+        Your application is covered with the Apache 2.0 license.
+
         ## Contributing
-        dafasdf
-        
+        reporting a bug
+
         ## Tests
-        fdasfds
-        
+        run the file throuhg node
+
         ## Questions
-        If you have any questin about my Project, reach me here -
-        - GitHub: [jonji](https://github.com/jonji)
+        If you have any questions about my Project, reach me here -
+        - GitHub: [jonjigoncalves](https://github.com/jonjigoncalves)
         - Email: jonjigoncalves@gmail.com
