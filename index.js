@@ -16,7 +16,7 @@ const questions = [
     {
         type: 'input',
         name: 'description',
-        message: 'Please describe your project'
+        message: 'Please describe your project:'
     },
 
     // {
@@ -142,7 +142,7 @@ function init() {
             `;
 
 
-        fs.writeFile('./README.MD', content.trim(), (err)=> {
+        fs.writeFile('./sampleREADME.MD', content.trim(), (err)=> {
             if (err) throw err;
             console.log('Readme File Created!!!');
         })
